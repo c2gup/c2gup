@@ -1,32 +1,91 @@
-[![MasterHead](data:image/jpeg;base64,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=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://c0.wallpaperflare.com/path/803/366/539/screen-code-laptop-write-5d040ba76a7bffc35923845c0c30035c.jpg)](https://codegrills.in)
 
-<h1 align="center">Hi 👋, I'm Anupam Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevO0UYqhlVT-DIt1AqSO7ldPiS6tb_MEpRA1U2VEA&s">
+<h2 align="center">Hi 👋! My name is Anupam Gupta and I'm a MernStack DEVELOPER   from India</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=c2gupt&label=Profile%20views&color=0e75b6&style=flat" alt="c2gupt" /> </p>
+###
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java (DSA)**
 
-- 💬 Ask me about **react**
+###
 
-- 📫 How to reach me **c2gupt@gmail.com**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+</div>
 
-- ⚡ Fun fact **I think I am Funny !**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anupamc2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anupamc2/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/anupamgupta____c2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anupamgupta____c2/" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="c2gupt@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/anupamc2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/anupamgupta____c2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c2gupt&show_icons=true&locale=en&layout=compact" alt="c2gupt" /></p>
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c2gupt&show_icons=true&locale=en" alt="c2gupt" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c2gupt&" alt="c2gupt" /></p>
+
+
+###
+
+
+
+###
+
+
+###
+
+
+
+
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
