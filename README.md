@@ -1,4 +1,4 @@
-[![MasterHead](https://c0.wallpaperflare.com/path/803/366/539/screen-code-laptop-write-5d040ba76a7bffc35923845c0c30035c.jpg)](https://codegrills.in)
+[![MasterHead](./your-header-image-name.png)
 
 ![Header](./your-header-image-name.png)
 
