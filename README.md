@@ -1,4 +1,4 @@
-./your-header-image-name.png
+[![MasterHead](![Header](./your-header-image-name.png))
 
 
 
