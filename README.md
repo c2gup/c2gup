@@ -1,6 +1,6 @@
-[![MasterHead](./your-header-image-name.png)
 
-![Header](./your-header-image-name.png)
+
+
 
 <h2 align="center">Hi 👋! My name is Anupam Gupta and I'm a MernStack DEVELOPER   from India</h2>
 
