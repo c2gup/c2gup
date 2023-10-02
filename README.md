@@ -1,4 +1,4 @@
-[![MasterHead](https://c0.wallpaperflare.com/path/803/366/539/screen-code-laptop-write-5d040ba76a7bffc35923845c0c30035c.jpg)](https://codegrills.in)
+![Header](./your-header-image-name.png)
 
 <h2 align="center">Hi 👋! My name is Anupam Gupta and I'm a MernStack DEVELOPER   from India</h2>
 
