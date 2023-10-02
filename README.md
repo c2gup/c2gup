@@ -1,4 +1,5 @@
-[image](https://github.com/c2gup/c2gup/assets/116897217/820ced79-12c3-4a0d-b648-a988c96e95ea)
+![image](https://github.com/c2gup/c2gup/assets/116897217/65882950-c683-46bf-a03b-a703ec6412f6)
+
 
 
 
