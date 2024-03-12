@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Anupam Gupta</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=c2gupt&label=Profile%20views&color=0e75b6&style=flat" alt="c2gupt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c2gupt" alt="c2gupt" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/g2anupamgupta" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/g2anupamgupta?logo=twitter&style=for-the-badge" alt="https://twitter.com/g2anupamgupta" /></a> </p>
+
 
 - 🔭 I’m currently working on **Web Project**
 
