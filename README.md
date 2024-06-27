@@ -71,6 +71,20 @@
 <div align="center">
   <table>
     <tr>
+
+
+
+  <td width="33%" align="center">
+        <h3>Project 2: <a href="https://github.com/c2gup/FOOd_APP_react_FRontant">Gkp Food Web App</a></h3>
+        <p><strong>Description:</strong> Sample website for Frontant Using React.</p>
+        <p><strong>Technologies:</strong>Html,Css JavaScript, React Talwind</p>
+    <ul>
+        <li>Only Frontant </li>
+        <li>Sample Website</li>
+         
+  </ul>
+        <a href="https://foodappreact.vercel.app/">Live Demo</a>
+      </td>
       <td width="33%" align="center">
         <h3>Project 1: <a href="https://github.com/c2gup/DevDetective_App">DevDetective_App</a></h3>
             <p><strong>Description:</strong> GitHub Profile  Viewer App</p>
@@ -83,18 +97,8 @@
 
   <a href="https://devdetechtiv.onrender.com/">Live Demo</a>
  </td>
-      <td width="33%" align="center">
-        <h3>Project 2: <a href="https://github.com/yourusername/project-repo">Project Name</a></h3>
-        <p><strong>Description:</strong> Brief description of the project.</p>
-        <p><strong>Technologies:</strong> JavaScript, Node.js, MongoDB</p>
-        <ul>
-          <li>Feature 1</li>
-          <li>Feature 2</li>
-          <li>Feature 3</li>
-        </ul>
-        <a href="https://yourdemo.com">Live Demo</a>
-      </td>
-      <td width="33%" align="center">
+    
+  <td width="33%" align="center">
         <h3>Project 3: <a href="https://github.com/yourusername/project-repo">Project Name</a></h3>
         <p><strong>Description:</strong> Brief description of the project.</p>
         <p><strong>Technologies:</strong> Java, Spring Boot, MySQL</p>
