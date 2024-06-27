@@ -108,5 +108,49 @@
 </div>
 
 
+## More Projects
+
+<div align="center">
+  <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+    <tr>
+      <td width="33%" align="center" style="padding: 20px; border: 1px solid #ddd;">
+        <h3>Project 4: <a href="https://github.com/c2gup/Random_GIF_React_Project">GIF Generator</a></h3>
+        <p><a href="https://github.com/c2gup/Random_GIF_React_Project">GitHub Repository</a></p>
+        <p><a href="https://random-gif-react-project.vercel.app/">Live Demo</a></p>
+      </td>
+      <td width="33%" align="center" style="padding: 20px; border: 1px solid #ddd;">
+        <h3>Project 5: <a href="https://github.com/c2gup/REACT-testimonial-web">Testimonial Website</a></h3>
+        <p><a href="https://github.com/c2gup/REACT-testimonial-web">GitHub Repository</a></p>
+        <p><a href="https://testimonial.onrender.com/">Live Demo</a></p>
+      </td>
+      <td width="33%" align="center" style="padding: 20px; border: 1px solid #ddd;">
+        <h3>Project 6: <a href="https://github.com/c2gup/react01_plan_with_me">Plan With Me</a></h3>
+        <p><a href="https://github.com/c2gup/react01_plan_with_me">GitHub Repository</a></p>
+        <p><a href="https://planwithme.onrender.com/">Live Demo</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center" style="padding: 20px; border: 1px solid #ddd;">
+        <h3>Project 7: <a href="https://github.com/c2gup/Password-Generator-First-JavaScript">Password Generator</a></h3>
+        <p><a href="https://github.com/c2gup/Password-Generator-First-JavaScript">GitHub Repository</a></p>
+        <p><a href="https://password-gen-1.onrender.com/">Live Demo</a></p>
+      </td>
+      <td width="33%" align="center" style="padding: 20px; border: 1px solid #ddd;">
+        <h3>Project 8: <a href="https://github.com/c2gup/Blog_Backend">Blog Backend Only</a></h3>
+        <p><a href="https://github.com/c2gup/Blog_Backend">GitHub Repository</a></p>
+        <p><a href="https://new-blog-backend.vercel.app/">Live Demo</a></p>
+      </td>
+      <td width="33%" align="center" style="padding: 20px; border: 1px solid #ddd;">
+        <h3>Project 9: <a href="https://github.com/c2gup/FileUploadBackendApp">Image, File, and Video Upload on Cloud</a></h3>
+        <p><a href="https://github.com/c2gup/FileUploadBackendApp">GitHub Repository</a></p>
+        <p>No Live Demo</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 
 
