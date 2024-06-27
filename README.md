@@ -69,49 +69,44 @@
 ## Projects
 
 <div align="center">
-  <table>
+  <table style="width: 100%; table-layout: fixed;">
     <tr>
-
-
-
-  <td width="33%" align="center">
-        <h3>Project 2: <a href="https://github.com/c2gup/FOOd_APP_react_FRontant">Gkp Food Web App</a></h3>
-        <p><strong>Description:</strong> Sample website for Frontant Using React.</p>
-        <p><strong>Technologies:</strong>Html,Css JavaScript, React Talwind</p>
-    <ul>
-        <li>Only Frontant </li>
-        <li>Sample Website</li>
-         
-  </ul>
-        <a href="https://foodappreact.vercel.app/">Live Demo</a>
+      <td width="33%" align="center" style="padding: 10px; vertical-align: top; border: 1px solid #ddd;">
+        <h3>Project 1: <a href="https://github.com/c2gup/DevDetective_App">DevDetective App</a></h3>
+        <p><strong>Description:</strong> A GitHub Profile Viewer App.</p>
+        <p><strong>Technologies:</strong> HTML, CSS, JavaScript</p>
+        <ul style="margin: 0; padding-left: 20px; text-align: left;">
+          <li>Search GitHub Users</li>
+          <li>Display User Profiles</li>
+          <li>Dark Mode Toggle</li>
+        </ul>
+        <a href="https://devdetechtiv.onrender.com/" style="display: inline-block; margin-top: 10px; padding: 8px 12px; color: #fff; background-color: #007bff; border-radius: 4px; text-decoration: none;">Live Demo</a>
       </td>
-      <td width="33%" align="center">
-        <h3>Project 1: <a href="https://github.com/c2gup/DevDetective_App">DevDetective_App</a></h3>
-            <p><strong>Description:</strong> GitHub Profile  Viewer App</p>
-          <p><strong>Technologies:</strong> Html,Css,JavaScript</p>
-       <ul style="margin: 0; padding-left: 20px;">
-                  <li>Search GitHub Users</li>
-                   <li>Display User Profile</li>
-                   <li>Dark Mode Toggle</li>
+      <td width="33%" align="center" style="padding: 10px; vertical-align: top; border: 1px solid #ddd;">
+        <h3>Project 2: <a href="https://github.com/c2gup/FOOd_APP_react_FRontant">Gkp Food Web App</a></h3>
+        <p><strong>Description:</strong> A sample website for front-end development using React.</p>
+        <p><strong>Technologies:</strong> HTML, CSS, JavaScript, React, Tailwind</p>
+        <ul style="margin: 0; padding-left: 20px; text-align: left;">
+          <li>Front-end Only</li>
+          <li>Sample Website</li>
         </ul>
-
-  <a href="https://devdetechtiv.onrender.com/">Live Demo</a>
- </td>
-    
-  <td width="33%" align="center">
-        <h3>Project 3: <a href="https://github.com/yourusername/project-repo">Project Name</a></h3>
-        <p><strong>Description:</strong> Brief description of the project.</p>
-        <p><strong>Technologies:</strong> Java, Spring Boot, MySQL</p>
-        <ul>
-          <li>Feature 1</li>
-          <li>Feature 2</li>
-          <li>Feature 3</li>
+        <a href="https://foodappreact.vercel.app/" style="display: inline-block; margin-top: 10px; padding: 8px 12px; color: #fff; background-color: #007bff; border-radius: 4px; text-decoration: none;">Live Demo</a>
+      </td>
+      <td width="33%" align="center" style="padding: 10px; vertical-align: top; border: 1px solid #ddd;">
+        <h3>Project 3: <a href="https://github.com/c2gup/ShopingCardt_react">Shopping Cart</a></h3>
+        <p><strong>Description:</strong> A Shopping Cart application using React and Redux Toolkit.</p>
+        <p><strong>Technologies:</strong> HTML, CSS, JavaScript, React, Tailwind, React Redux</p>
+        <ul style="margin: 0; padding-left: 20px; text-align: left;">
+          <li>API Integration</li>
+          <li>React Components</li>
+          <li>Redux Toolkit</li>
         </ul>
-        <a href="https://yourdemo.com">Live Demo</a>
+        <a href="https://shoping-cardt-react.vercel.app/" style="display: inline-block; margin-top: 10px; padding: 8px 12px; color: #fff; background-color: #007bff; border-radius: 4px; text-decoration: none;">Live Demo</a>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
