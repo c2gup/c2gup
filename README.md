@@ -92,92 +92,23 @@
 
 
 
+## 🚀 Projects
 
-## Projects
+| Project | Description | Tech Stack | Links |
+|--------|-------------|------------|-------|
+| **[DevDetective App](https://github.com/c2gup/DevDetective_App)** | A GitHub Profile Viewer App with dark mode toggle | `HTML`, `CSS`, `JavaScript` | 🔗 [Live Demo](https://devdetechtiv.onrender.com/) |
+| **[Gkp Food Web App](https://github.com/c2gup/FOOd_APP_react_FRontant)** | A sample front-end website made using React | `HTML`, `CSS`, `JS`, `React`, `Tailwind` | 🔗 [Live Demo](https://foodappreact.vercel.app/) |
+| **[Shopping Cart App](https://github.com/c2gup/ShopingCardt_react)** | A React + Redux Toolkit shopping cart app with API integration | `React`, `Tailwind`, `Redux Toolkit` | 🔗 [Live Demo](https://shoping-cardt-react.vercel.app/) |
+| **[Farmer Store (Full Stack)](https://github.com/c2gup/FarmerStore_full_stack)** | A full stack app for selling organic products | `MERN Stack`, `Tailwind`, `Node.js`, `MongoDB` | 🔗 [Live Demo](https://farmerrrstore.onrender.com/) |
+| **[Tuition Website (MERN)](https://github.com/c2gup/Tuition_Website_MERN)** | MERN-based education platform with admin dashboard | `MongoDB`, `Express`, `React`, `Node.js`, `Tailwind` | 🔗 [Live Demo](https://tuitionwebsite.vercel.app/) |
+| **[News Web App](https://github.com/c2gup/News_web)** | Fetches latest news using API, with dark mode toggle | `HTML`, `CSS`, `JS`, `News API` | 🔗 [Live Demo](https://newswebappapi.netlify.app/) |
+| **[Weather Web App](https://github.com/c2gup/Weather_web)** | Live weather info using real-time API | `HTML`, `CSS`, `JavaScript`, `Weather API` | 🔗 [Live Demo](https://weatherwebappapi.netlify.app/) |
+| **[Portfolio Website](https://github.com/c2gup/Portfolio)** | My personal developer portfolio | `React`, `Tailwind`, `Framer Motion` | 🔗 [Live Demo](https://portfolio-c2gup.vercel.app/) |
+| **[Image Search App](https://github.com/c2gup/Image_Search_Web_App)** | A clean search app using Pixabay API | `HTML`, `CSS`, `JavaScript`, `API` | 🔗 [Live Demo](https://pixabayimagesearcher.netlify.app/) |
 
-<div align="center">
-  <table style="width: 100%; table-layout: fixed;">
-    <tr>
-      <td width="33%" align="center" style="padding: 10px; vertical-align: top; border: 1px solid #ddd;">
-        <h3>Project 1: <a href="https://github.com/c2gup/DevDetective_App">DevDetective App</a></h3>
-        <p><strong>Description:</strong> A GitHub Profile Viewer App.</p>
-        <p><strong>Technologies:</strong> HTML, CSS, JavaScript</p>
-        <ul style="margin: 0; padding-left: 20px; text-align: left;">
-          <li>Search GitHub Users</li>
-          <li>Display User Profiles</li>
-          <li>Dark Mode Toggle</li>
-        </ul>
-        <a href="https://devdetechtiv.onrender.com/" style="display: inline-block; margin-top: 10px; padding: 8px 12px; color: #fff; background-color: #007bff; border-radius: 4px; text-decoration: none;">Live Demo</a>
-      </td>
-      <td width="33%" align="center" style="padding: 10px; vertical-align: top; border: 1px solid #ddd;">
-        <h3>Project 2: <a href="https://github.com/c2gup/FOOd_APP_react_FRontant">Gkp Food Web App</a></h3>
-        <p><strong>Description:</strong> A sample website for front-end development using React.</p>
-        <p><strong>Technologies:</strong> HTML, CSS, JavaScript, React, Tailwind</p>
-        <ul style="margin: 0; padding-left: 20px; text-align: left;">
-          <li>Front-end Only</li>
-          <li>Sample Website</li>
-        </ul>
-        <a href="https://foodappreact.vercel.app/" style="display: inline-block; margin-top: 10px; padding: 8px 12px; color: #fff; background-color: #007bff; border-radius: 4px; text-decoration: none;">Live Demo</a>
-      </td>
-      <td width="33%" align="center" style="padding: 10px; vertical-align: top; border: 1px solid #ddd;">
-        <h3>Project 3: <a href="https://github.com/c2gup/ShopingCardt_react">Shopping Cart</a></h3>
-        <p><strong>Description:</strong> A Shopping Cart application using React and Redux Toolkit.</p>
-        <p><strong>Technologies:</strong> HTML, CSS, JavaScript, React, Tailwind, React Redux</p>
-        <ul style="margin: 0; padding-left: 20px; text-align: left;">
-          <li>API Integration</li>
-          <li>React Components</li>
-          <li>Redux Toolkit</li>
-        </ul>
-        <a href="https://shoping-cardt-react.vercel.app/" style="display: inline-block; margin-top: 10px; padding: 8px 12px; color: #fff; background-color: #007bff; border-radius: 4px; text-decoration: none;">Live Demo</a>
-      </td>
-    </tr>
-  </table>
-</div>
+---
 
+### 📌 More Projects
 
-## More Projects
-
-<div align="center">
-  <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
-    <tr>
-      <td width="33%" align="center" style="padding: 20px; border: 1px solid #ddd;">
-        <h3>Project 4: <a href="https://github.com/c2gup/Random_GIF_React_Project">GIF Generator</a></h3>
-        <p><a href="https://github.com/c2gup/Random_GIF_React_Project">GitHub Repository</a></p>
-        <p><a href="https://random-gif-react-project.vercel.app/">Live Demo</a></p>
-      </td>
-      <td width="33%" align="center" style="padding: 20px; border: 1px solid #ddd;">
-        <h3>Project 5: <a href="https://github.com/c2gup/REACT-testimonial-web">Testimonial Website</a></h3>
-        <p><a href="https://github.com/c2gup/REACT-testimonial-web">GitHub Repository</a></p>
-        <p><a href="https://testimonial.onrender.com/">Live Demo</a></p>
-      </td>
-      <td width="33%" align="center" style="padding: 20px; border: 1px solid #ddd;">
-        <h3>Project 6: <a href="https://github.com/c2gup/react01_plan_with_me">Plan With Me</a></h3>
-        <p><a href="https://github.com/c2gup/react01_plan_with_me">GitHub Repository</a></p>
-        <p><a href="https://planwithme.onrender.com/">Live Demo</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" align="center" style="padding: 20px; border: 1px solid #ddd;">
-        <h3>Project 7: <a href="https://github.com/c2gup/Password-Generator-First-JavaScript">Password Generator</a></h3>
-        <p><a href="https://github.com/c2gup/Password-Generator-First-JavaScript">GitHub Repository</a></p>
-        <p><a href="https://password-gen-1.onrender.com/">Live Demo</a></p>
-      </td>
-      <td width="33%" align="center" style="padding: 20px; border: 1px solid #ddd;">
-        <h3>Project 8: <a href="https://github.com/c2gup/Blog_Backend">Blog Backend Only</a></h3>
-        <p><a href="https://github.com/c2gup/Blog_Backend">GitHub Repository</a></p>
-        <p><a href="https://new-blog-backend.vercel.app/">Live Demo</a></p>
-      </td>
-      <td width="33%" align="center" style="padding: 20px; border: 1px solid #ddd;">
-        <h3>Project 9: <a href="https://github.com/c2gup/FileUploadBackendApp">Image, File, and Video Upload on Cloud</a></h3>
-        <p><a href="https://github.com/c2gup/FileUploadBackendApp">GitHub Repository</a></p>
-        <p>No Live Demo</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-
-
-
+Want to see all my code?  
+👉 **[Visit my GitHub Repositories »](https://github.com/c2gup?tab=repositories)**  
