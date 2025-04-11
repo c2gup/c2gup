@@ -1,71 +1,96 @@
+<!-- GitHub README for Anupam Gupta -->
+
 <h1 align="center">Hi 👋, I'm Anupam Gupta</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DevOps+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50" />
+</p>
 
 <h3 align="center">A Passionate Full Stack Developer & DevOps Enthusiast from India 🇮🇳</h3>
 
-###
+---
+
+### 🧑‍💻 About Me
+
+- 🚀 Building scalable web apps using **MERN stack**
+- ☁️ Exploring **DevOps tools**: Docker, Kubernetes, CI/CD, GitHub Actions
+- 💬 Ask me about **React, Node.js, MongoDB, DevOps, System Design**
+- 📫 Reach me at: **c2gupt@gmail.com**
+- 🎯 Fun Fact: *My code runs better when I have coffee ☕*
+
+---
+
+### 🔧 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c2gup&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=c2gup&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,tailwind,python,csharp,docker,kubernetes,git,github,vscode,linux" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://giphy.com/embed/i1JHRZSXO9LZZDHqii" width="480" height="442" frameBorder="0" class="giphy-embed"  />
+### 📊 GitHub Stats
 
-
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c2gup&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2gup&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="160" />
 </div>
 
-###
-###
+---
 
-<div align="left">
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=c2gup&theme=dracula&hide_border=false" height="200" />
+</p>
+
+---
+
+### 🎥 Fun Vibe
+
+<p align="center">
+  <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="300" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
   <a href="https://www.instagram.com/_c2__not/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="c2gupt@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:c2gupt@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/anupamc2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/G2anupamGupta" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
+### 🐍 GitHub Snake Game Contribution
 
-<img src="https://raw.githubusercontent.com/c2gup/c2gup/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/c2gup/c2gup/output/snake.svg" alt="Snake animation" />
+</p>
 
-###
+---
 
-###
+### 👀 Visitor Counter
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/c2gup/count.svg?"  />
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/c2gup/count.svg?" />
+</p>
 
-###
+---
+
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.”*
+
+
 
 
 ## Projects
