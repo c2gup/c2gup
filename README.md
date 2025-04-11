@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Anupam Gupta and I'm a Full Stack Devloper, from India</h2>
+<h1 align="center">Hi 👋, I'm Anupam Gupta</h1>
+
+<h3 align="center">A Passionate Full Stack Developer & DevOps Enthusiast from India 🇮🇳</h3>
 
 ###
 
