@@ -37,13 +37,7 @@
 
 ---
 
-### 🎥 Fun Vibe
 
-<p align="center">
-  <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="300" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
@@ -64,13 +58,6 @@
 
 ---
 
-### 🐍 GitHub Snake Game Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/c2gup/c2gup/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 
 
