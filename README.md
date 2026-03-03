@@ -26,14 +26,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,tailwind,python,csharp,docker,kubernetes,git,github,vscode,linux" />
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c2gup&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2gup&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="160" />
-</div>
 
 ---
 
