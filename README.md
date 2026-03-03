@@ -80,35 +80,10 @@
 
 ---
 
-### 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/c2gup/count.svg?" />
-</p>
-
----
-
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”*
 
 
 
-## 🚀 Projects
 
-| Project | Description | Tech Stack | Links |
-|--------|-------------|------------|-------|
-| **[DevDetective App](https://github.com/c2gup/DevDetective_App)** | A GitHub Profile Viewer App with dark mode toggle | `HTML`, `CSS`, `JavaScript` | 🔗 [Live Demo](https://devdetechtiv.onrender.com/) |
-| **[Gkp Food Web App](https://github.com/c2gup/FOOd_APP_react_FRontant)** | A sample front-end website made using React | `HTML`, `CSS`, `JS`, `React`, `Tailwind` | 🔗 [Live Demo](https://foodappreact.vercel.app/) |
-| **[Shopping Cart App](https://github.com/c2gup/ShopingCardt_react)** | A React + Redux Toolkit shopping cart app with API integration | `React`, `Tailwind`, `Redux Toolkit` | 🔗 [Live Demo](https://shoping-cardt-react.vercel.app/) |
-| **[Farmer Store (Full Stack)](https://github.com/c2gup/FarmerStore_full_stack)** | A full stack app for selling organic products | `MERN Stack`, `Tailwind`, `Node.js`, `MongoDB` | 🔗 [Live Demo](https://farmerrrstore.onrender.com/) |
-| **[Tuition Website (MERN)](https://github.com/c2gup/Tuition_Website_MERN)** | MERN-based education platform with admin dashboard | `MongoDB`, `Express`, `React`, `Node.js`, `Tailwind` | 🔗 [Live Demo](https://tuitionwebsite.vercel.app/) |
-| **[News Web App](https://github.com/c2gup/News_web)** | Fetches latest news using API, with dark mode toggle | `HTML`, `CSS`, `JS`, `News API` | 🔗 [Live Demo](https://newswebappapi.netlify.app/) |
-| **[Weather Web App](https://github.com/c2gup/Weather_web)** | Live weather info using real-time API | `HTML`, `CSS`, `JavaScript`, `Weather API` | 🔗 [Live Demo](https://weatherwebappapi.netlify.app/) |
-| **[Portfolio Website](https://github.com/c2gup/Portfolio)** | My personal developer portfolio | `React`, `Tailwind`, `Framer Motion` | 🔗 [Live Demo](https://portfolio-c2gup.vercel.app/) |
-| **[Image Search App](https://github.com/c2gup/Image_Search_Web_App)** | A clean search app using Pixabay API | `HTML`, `CSS`, `JavaScript`, `API` | 🔗 [Live Demo](https://pixabayimagesearcher.netlify.app/) |
 
----
 
-### 📌 More Projects
 
-Want to see all my code?  
-👉 **[Visit my GitHub Repositories »](https://github.com/c2gup?tab=repositories)**  
