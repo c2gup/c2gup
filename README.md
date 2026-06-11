@@ -1,68 +1,69 @@
-<!-- GitHub README for Anupam Gupta -->
 
-<h1 align="center">Hi 👋, I'm Anupam Gupta</h1>
+# Hi, I'm Anupam Gupta 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DevOps+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50" />
-</p>
+### Full Stack Developer • MERN Engineer • AI Enthusiast
 
-<h3 align="center">A Passionate Full Stack Developer & DevOps Enthusiast from India 🇮🇳</h3>
+I'm a Computer Science student from India passionate about building scalable web applications, AI-powered products, and cloud-native solutions.
+
+Currently working as a **Junior MERN Stack Developer**, building production-ready applications and integrating AI workflows into real-world systems.
+
+<br>
+
+## 🚀 What I'm Working On
+
+- Building scalable MERN applications
+- Exploring DevOps & Cloud technologies
+- Developing AI-powered products with OpenAI & LangChain
+- Learning Kubernetes, CI/CD, and system design
+
+<br>
+
+## 💻 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
+
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss)
+![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
+![Inngest](https://img.shields.io/badge/Inngest-black?style=flat-square)
+![E2B](https://img.shields.io/badge/E2B_Sandbox-black?style=flat-square)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-black?style=flat-square&logo=jenkins)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+
+<br>
+
+
+
+## 🤝 Connect With Me
+
+- Portfolio → https://anupamgupta.me
+- LinkedIn → https://linkedin.com/in/anupamc2
+- GitHub → https://github.com/c2gup
+- Email → anupamgupta.cse@gmail.com
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🚀 Building scalable web apps using **MERN stack**
-- ☁️ Exploring **DevOps tools**: Docker, Kubernetes, CI/CD, GitHub Actions
-- 💬 Ask me about **React, Node.js, MongoDB, DevOps, System Design**
-- 📫 Reach me at: **c2gupt@gmail.com**
-- 🎯 Fun Fact: *My code runs better when I have coffee ☕*
-
----
-
-### 🔧 Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,tailwind,python,csharp,docker,kubernetes,git,github,vscode,linux" />
-</div>
-
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=c2gup&theme=dracula&hide_border=false" height="200" />
-</p>
-
----
-
-
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.instagram.com/_c2__not/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:c2gupt@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anupamc2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/G2anupamGupta" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-
-
-
-
-
-
-
+> Building products, solving problems, and learning something new every day.
 
