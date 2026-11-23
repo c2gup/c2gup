@@ -58,7 +58,7 @@ Currently working as a **Junior MERN Stack Developer**, building production-read
 
 ## 🤝 Connect With Me
 
-- Portfolio → https://anupamgupta.me
+- Portfolio → https://portfolio-lemon-three-42.vercel.app/
 - LinkedIn → https://linkedin.com/in/anupamc2
 - GitHub → https://github.com/c2gup
 - Email → anupamgupta.cse@gmail.com
